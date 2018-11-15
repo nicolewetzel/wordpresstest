@@ -6,7 +6,7 @@
     background: #0088d7;
     border-color: #0088d7 }
     .jumbotron .btn-primary:hover {
-      background: #0088d7; }
+      background: #065685; }
   .jumbotron p {
     color: #d9ccee;
     max-width: 75%;
@@ -24,3 +24,4 @@
     border: 2px solid white; }
     .jumbotron .lang-logo img {
       max-width: 100%; }
+
